@@ -2,7 +2,7 @@ let nomeHeroi = "Capitão America"
 let experienciaHeroi = 800
 
 if (experienciaHeroi <1000){
-console.log("O heroi " + "O heroi " + nomeHeroi + " esta no nivel Ferro")
+console.log("O heroi " + nomeHeroi + " esta no nivel Ferro")
 
 }else if (experienciaHeroi >= 1001 && experienciaHeroi <= 2000){
 console.log("O heroi " + nomeHeroi + " esta no nivel Bronze")
